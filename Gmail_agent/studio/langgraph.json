@@ -1,0 +1,20 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "simple_graph": "./simple.py:graph",
+    "router": "./router.py:graph",
+    "agent": "./agent.py:graph",
+    "simple_graph_copy": "./simple_graph.py:graph",
+    "crazy_graph": "./aura_wiki_ex.py:graph",
+    "gmail_agent": "./gmail_agent.py:graph",
+    "spartee_graph": "./graph.py:graph",
+    "gmail_agent_test": "./gmail_agent_test.py:graph",
+    "final_gmail_agent": "./final_gmail_agent.py:graph"
+  },
+  
+  "env": "./.env",
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ]
+}
